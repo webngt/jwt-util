@@ -1,0 +1,22 @@
+{
+  "name": "jwt-util",
+  "version": "0.0.1",
+  "description": "JWT utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "undefined"
+  },
+  "keywords": [
+    "JWT",
+    "util"
+  ],
+  "author": "Alexander Rozhdestvensky",
+  "license": "MIT",
+  "dependencies": {
+    "node-jose": "^2.0.0"
+  }
+}
