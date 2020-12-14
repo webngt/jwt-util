@@ -2,3 +2,7 @@ node_modules
 tmp
 secret.json
 public.json
+secret_sig.json
+public_sig.json
+secret_enc.json
+public_enc.json
