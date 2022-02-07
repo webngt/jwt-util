@@ -17,6 +17,6 @@
   "author": "Alexander Rozhdestvensky",
   "license": "MIT",
   "dependencies": {
-    "node-jose": "^2.0.0"
+    "node-jose": "^2.1.0"
   }
 }
